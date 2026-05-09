@@ -125,7 +125,16 @@ python gui.py
 ```
 
 ---
+## 🔑 Environment Variables
 
+Create a `.env` file in the project root and add:
+
+```env
+NEWS_API=your_news_api_key
+```
+
+You can get a free API key from:
+https://newsapi.org/
 
 # 🎤 SAMPLE VOICE COMMANDS  
 
